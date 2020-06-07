@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 
 echo "****************************************************************"
 echo "El ususario que inicio la seccion fue tipo:......"; whoami
