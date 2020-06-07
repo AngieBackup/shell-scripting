@@ -6,3 +6,7 @@ programs with bash
 - InformationConsultation: Using system variables, compose a message telling the user who runs the script, the shell it uses, and the directory it is in.
 
 - SearchElement: Create a Script which searches for records in the event viewer, and creates an HTML report of this information.
+
+- CompileC-SHC: Task automation example compiled in C-SHC.
+
+- NetresecAutomation:netrese installation automation.
